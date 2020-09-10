@@ -1,0 +1,201 @@
+#container {
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+   width: 960px;
+   height: 1024px;
+}
+#header2 {
+    color: white;
+}
+#colorRed {
+    color: red;
+}
+.colorBlue, h2 {
+    color: #5080bf;
+}
+.colorAqua, a, #phoneNum {
+    color: #38b5d1;
+}
+.bold, .colorAqua, a {
+    font-weight: bold;
+    font-family: Helvetica, sans-serif;
+}
+a {
+    text-decoration: none;
+}
+#globe {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+}
+#home {
+    width: 30px;
+    height: 30px;
+    vertical-align: top;
+}
+#phone {
+    width: 70px;
+    height: 70px;
+}
+#ninja {
+    width: 150px;
+    height: 200px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+}
+#server {
+    width: 400px;
+    height: 150px;
+    padding-left: 100px;
+}
+#html {
+    width: 150px;
+    height: 150px;
+    vertical-align: top;
+    padding: 10px;
+}
+#header1 {
+    font-size: 55px;
+    display: inline-block;
+    padding: 0px 0px 0px 110px; 
+    margin: 0px;
+}
+#header2 {
+    background-image: linear-gradient(#5080bf, #779ed1, #5080bf);
+    padding: 25px;
+    margin: 0px; 
+    font-weight: 800;
+    font-size: 35px;
+}
+#fade{
+    background: linear-gradient(#d4d6d9 5%, #ffffff 18%);
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+/* SIDEBAR SECTION */
+#sidebar {
+    width: 250px;
+    height: 800px;
+    display: inline-block;
+    vertical-align: top; /* Changes the default of baseline (bottom alignment) */ 
+}
+
+/* WHAT IS SECTION */
+#whatIs p {
+    font-family: Helvetica, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+}
+#sidebar hr {
+    background-color: gray;
+    height: 2px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#btn1 {
+    font-weight: 500;
+    font-size: 20px;
+    background-color: #5080bf;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 42px 10px 42px;
+    box-shadow: 3px 3px 5px black;
+    margin-bottom: 10px;
+}
+#btn2 {
+    font-weight: 500;
+    font-size: 20px;
+    background-color: #e3842b;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    box-shadow: 3px 3px 5px black;
+}
+
+/* REINVENT SECTION */
+#reinvent {
+    background-image: url("images/ad_background.png");
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    box-shadow: 3px 3px 5px black;
+}
+#reinvent p {
+    font-size: 30px;
+    color: white;
+}
+
+#btn3 {
+    font-weight: 500;
+    font-size: 20px;
+    background-color: #38b5d1;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 35px 10px 35px; 
+    box-shadow: 3px 3px 5px black;
+}
+#triple {
+    font-weight: 500;
+    font-size: 10px;
+    color: white;
+    vertical-align: middle;
+}
+
+/* HTTP SECTION */
+#http {
+    width: 660px;
+    height: auto;
+    display: inline-block;
+    margin: 0px 0px 0px 5px;
+    padding: 0px 3px 0px 30px;
+}
+#connect {
+    display: inline-block;
+}
+#dns {
+    font-size: 25px;
+    width: 50px;
+    height: 50px;
+    color: #5080bf;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 4px;
+    margin-top: 0px;
+    margin-right: 210px;
+}
+#contact {
+    width: 250px;
+    height: 100px;
+    display: inline-block;
+}
+#contact p {
+    vertical-align: top;
+    width: 250px;
+    margin: 0px; 
+    padding: 0px;
+    margin: 0px;
+}
+#http hr {
+    background-color: gray;
+    height: 2px;
+}
+#phoneNum {
+    font-size: 35px;
+    font-weight: bolder;
+
+}
+
+/* HTTP SECTION */
+#big3 {
+    border-top: 5px solid #5080bf;
+    border-right: 5px solid #5080bf;
+    border-left: 5px solid #5080bf; 
+    padding-bottom: 10px;
+}
+#tech {
+    width: 420px;
+    height: 200px;
+    display: inline-block;
+}
